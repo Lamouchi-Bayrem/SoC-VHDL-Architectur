@@ -1,6 +1,6 @@
 # SoC Architecture on FPGA using VHDL
 
-![Project](images/architecture.png)
+![Project](images/architecture.jpg)
 
 ## Overview
 
