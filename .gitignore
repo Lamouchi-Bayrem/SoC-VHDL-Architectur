@@ -1,0 +1,41 @@
+# Simulation files
+*.vcd
+*.wlf
+*.ghw
+*.cf
+work-obj*.cf
+
+# Vivado
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.Xil/
+
+# Quartus
+db/
+incremental_db/
+output_files/
+
+# ModelSim
+transcript
+modelsim.ini
+work/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated bitstreams/reports can be large
+fpga/bitstreams/*.bit
+fpga/reports/*.rpt

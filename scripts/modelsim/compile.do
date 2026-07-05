@@ -1,0 +1,12 @@
+vlib work
+vcom ../../src/tristate/p3e.vhd
+vcom ../../src/mux/mux.vhd
+vcom ../../src/alu/alu.vhd
+vcom ../../src/registers/acc.vhd
+vcom ../../src/registers/pc.vhd
+vcom ../../src/registers/ir.vhd
+vcom ../../src/sequencer/sequenceurSOC.vhd
+vcom ../../src/memory/mem.vhd
+vcom ../../src/top/mu.vhd
+vcom ../../src/top/projet.vhd
+vcom ../../sim/testbenches/bench_projet.vhd

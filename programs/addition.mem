@@ -1,0 +1,9 @@
+-- Address : Instruction/Data
+-- Program: ACC = MEM[0x010] + MEM[0x011], result in MEM[0x012]
+000 : 0010 -- LDA 0x010
+001 : 2011 -- ADD 0x011
+002 : 1012 -- STO 0x012
+003 : 7000 -- STOP
+010 : 0005 -- data 5
+011 : 0003 -- data 3
+012 : 0000 -- result
