@@ -1,4 +1,4 @@
-# SoC Architecture on FPGA using VHDL
+# MCU SoC Architecture on FPGA using VHDL
 
 ![Project](images/architecture.jpg)
 
